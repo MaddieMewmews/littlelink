@@ -91,13 +91,13 @@ html {
 }
 @font-face {
   font-family: 'FOT-PopJoy Std-Local';
-  src: url('https://maddie.mewmews.gay/css/FOT-PopJoyStd-B.woff2') format('woff2');
+  src: url('./FOT-PopJoyStd-B.woff2') format('woff2');
 }
 body {
   font-size: 18px;
   line-height: 24px;
   font-weight: 400;
-  font-family: "FOT-PopJoy Std-Local", "FOT-PopJoy Std B", "FOT-PopJoy Std", "FOT-PopJoy", "popjoystd-b", "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial,
+  font-family: "FOT-PopJoy Std B", "FOT-PopJoy Std", "FOT-PopJoy", "popjoystd-b", "FOT-PopJoy Std-Local", "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial,
     sans-serif;
   background-color: #1e1e2e;
 }
