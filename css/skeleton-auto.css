@@ -93,13 +93,13 @@ body {
   font-size: 18px;
   line-height: 24px;
   font-weight: 400;
-  font-family: "FOT-Popjoy Std", "FOT-Popjoy", "popjoystd-b", "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial,
+  font-family: "FOT-PopJoy Std", "FOT-PopJoy", "popjoystd-b", "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial,
     sans-serif;
   background-color: #1e1e2e;
   @font-face {
-    font-family: "FOT-Popjoy Std";
-    src: local("FOT-Popjoy Std"),
-         url("../FOT-PopjoyStd-B.woff2") format("woff2");
+    font-family: "FOT-PopJoy Std";
+    src: local("FOT-PopJoy Std"),
+         url("../FOT-PopJoyStd-B.woff2") format("woff2");
   }
   
 }
