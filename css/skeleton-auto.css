@@ -99,7 +99,7 @@ body {
   @font-face {
     font-family: "FOT-PopJoy Std";
     src: local("FOT-PopJoy Std"),
-         url("../FOT-PopJoyStd-B.woff2") format("woff2");
+         url("https://maddie.mewmews.gay/css/FOT-PopJoyStd-B.woff2") format("woff2");
   }
   
 }
