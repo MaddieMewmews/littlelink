@@ -99,7 +99,7 @@ body {
   @font-face {
     font-family: "FOT-Popjoy Std";
     src: local("FOT-Popjoy Std"),
-         url("FOT-PopjoyStd-B.woff2") format("woff2");
+         url("../FOT-PopjoyStd-B.woff2") format("woff2");
   }
   
 }
