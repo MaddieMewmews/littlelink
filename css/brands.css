@@ -661,3 +661,12 @@ button:hover,
 .button.button-hashnode:focus {
   filter: brightness(90%);
 }
+/* Cohost */
+.button.button-cohost {
+  color: #ffffff;
+  background-image: linear-gradient(-135deg, #ffab5c, #83254f, #cf3a7d);
+}
+.button.button-cohost:hover,
+.button.button-cohost:focus {
+  filter: brightness(90%);
+}
