@@ -318,7 +318,7 @@ button:hover,
 /* Mastodon */
 .button.button-mastodon {
   color: #ffffff;
-  background-image: linear-gradient(to bottom, #302e7b, #17063B);
+  background-image: linear-gradient(-135deg, #211e57, #17063B);
 }
 .button.button-mastodon:hover,
 .button.button-mastodon:focus {
