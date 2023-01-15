@@ -353,6 +353,13 @@ button:hover,
   color: #ffffff;
   background-color: #00AEEF;
 }
+
+/* Fansly */
+.button.button-fansly {
+  color: #ffffff;
+  background-color: #4d97ef;
+}
+
 .button.button-onlyfans:hover,
 .button.button-onlyfans:focus {
   filter: brightness(90%);
