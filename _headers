@@ -2,7 +2,8 @@
   Access-Control-Allow-Origin: *
 
 /images/iconrepo/congrats8mb.gif
-  Content-Type font/woff2
+  Access-Control-Allow-Origin: *
+  Content-Type image/gif
 
 /css/FOT-PopJoyStd-B.woff2
   Access-Control-Allow-Origin: *
