@@ -61,6 +61,22 @@ button:hover,
   filter: brightness(90%);
 }
 
+.button {
+  transform: translate(0%,0%) scale(1, 1);
+  transition: all 0.1s ease;
+}
+
+.button:hover {
+  transform: translate(3%,1%) scale(1.1, 1.1);
+}
+.avatar {
+  transition: all .1s ease-in-out;
+  transform-style: preserve-3d;
+}
+.avatar:hover {
+  transform: scale(1.15) rotate(22.5deg);
+}
+
 /* Brand Icons
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
