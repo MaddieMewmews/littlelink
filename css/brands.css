@@ -376,6 +376,17 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Matrix */
+.button-matrix {
+  --button-text:#FFFFFF;
+  --button-background:#000000;
+  --button-border:1px solid #FFFFFF;
+}
+.button.button-matrix:hover,
+.button.button-matrix:focus {
+  filter: brightness(90%);
+}
+
 /* Medium */
 .button.button-medium {
   color: #ffffff;
@@ -593,6 +604,16 @@ button:hover,
 }
 .button.button-tiktok:hover,
 .button.button-tiktok:focus {
+  filter: brightness(90%);
+}
+
+/* Xiaohongshu */
+.button.button-xiaohongshu {
+  color: #ffffff;
+  background-color: #e94149;
+}
+.button.button-xiaohongshu:hover,
+.button.button-xiaohongshu:focus {
   filter: brightness(90%);
 }
 
