@@ -607,16 +607,6 @@ button:hover,
   filter: brightness(90%);
 }
 
-/* Xiaohongshu */
-.button.button-xiaohongshu {
-  color: #ffffff;
-  background-color: #e94149;
-}
-.button.button-xiaohongshu:hover,
-.button.button-xiaohongshu:focus {
-  filter: brightness(90%);
-}
-
 /* Trello */
 .button.button-trello {
   color: #ffffff;
@@ -774,5 +764,15 @@ button:hover,
 }
 .button.button-cohost:hover,
 .button.button-cohost:focus {
+  filter: brightness(90%);
+}
+
+/* Xiaohongshu */
+.button.button-xiaohongshu {
+  color: #ffffff;
+  background-color: #e94149;
+}
+.button.button-xiaohongshu:hover,
+.button.button-xiaohongshu:focus {
   filter: brightness(90%);
 }
