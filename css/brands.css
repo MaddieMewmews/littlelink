@@ -776,3 +776,13 @@ button:hover,
 .button.button-xiaohongshu:focus {
   filter: brightness(90%);
 }
+
+/* TETR.IO */
+.button.button-tetrio {
+  color: #ffffff;
+  background-image: linear-gradient(135deg, #df4eaa, #7e5fe3, #2f51aa, #15919d);
+}
+.button.button-tetrio:hover,
+.button.button-tetrio:focus {
+  filter: brightness(90%);
+}
