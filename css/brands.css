@@ -120,6 +120,17 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* AniList */
+.button.button-anilist {
+  color:#FFFFFF;
+  background-color:#2B2D42;
+  border:1px solid #FFFFFF;
+}
+.button.button-anilist:hover,
+.button.button-anilist:focus {
+  filter: brightness(90%);
+}
+
 /* Apple App Store */
 .button.button-appstore {
   color: #ffffff;
@@ -292,6 +303,18 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* GOG */
+.button.button-gog {
+  color:#FFFFFF;
+  background-color:#303030;
+  border:1px solid #FFFFFF;
+}
+.button.button-gog:hover,
+.button.button-gog:focus {
+  filter: brightness(90%);
+}
+
+
 /* Goodreads */
 .button.button-goodreads {
   color: #333333;
@@ -394,9 +417,9 @@ button:hover,
 
 /* Matrix */
 .button-matrix {
-  --button-text:#FFFFFF;
-  --button-background:#000000;
-  --button-border:1px solid #FFFFFF;
+  color:#FFFFFF;
+  background-color:#000000;
+  border:1px solid #FFFFFF;
 }
 .button.button-matrix:hover,
 .button.button-matrix:focus {
@@ -410,6 +433,17 @@ button:hover,
 }
 .button.button-medium:hover,
 .button.button-medium:focus {
+  filter: brightness(90%);
+}
+
+/* ListenBrainz */
+.button.button-listenbrainz {
+  color:#000000;
+  background-color:#FFFFFF;
+  border:1px solid #000000;
+}
+.button.button-listenbrainz:hover,
+.button.button-listenbrainz:focus {
   filter: brightness(90%);
 }
 
