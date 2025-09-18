@@ -235,6 +235,18 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* RetroAchievements */
+.button.button-retroachievements {
+  color: #ffffff;
+  background-image: linear-gradient(135deg, #4686e5);
+  box-shadow:inset 0px 0px 0px 2px #cc9a00;
+}
+.button.button-retroachievements:hover,
+.button.button-retroachievements:focus {
+  filter: brightness(90%);
+}
+
+
 /* Facebook */
 .button.button-faceb {
   color: #ffffff;
